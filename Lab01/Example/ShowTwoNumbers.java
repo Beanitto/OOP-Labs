@@ -15,7 +15,7 @@ public class ShowTwoNumbers {
         strNotification += strNum2;
 
         JOptionPane.showMessageDialog(null, strNotification, "Show two numbers", JOptionPane.INFORMATION_MESSAGE);
-        System.exit(0);
+        System.exit( 0);
 
     }
 
